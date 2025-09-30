@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there! 👋 I'm  zain alabideen
 
-<!--
-**mhdzainalabidden/mhdzainalabidden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full-Stack Developer & UI/UX Designer
 
-Here are some ideas to get you started:
+### 🎯 **What I Do**
+- **Backend Development**: Laravel APIs, Database Design, System Architecture
+- **Mobile Development**: Flutter apps for iOS & Android
+- **Web Development**: Nuxt.js, Vue.js, Modern JavaScript
+- **UI/UX Design**: Figma prototyping, User Experience Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ **Current Projects**
+- 🏢 **Property Management System** - Laravel Backend API and Fontendend Flutter(In Progress)
+- 🏨 **Hotel Management System** - Laravel + Flutter (mobile and web) Full Stack
+- 🎯 **Goal Tracker** - Flutter Mobile App
+- 🚗 **Car Rental System** - Flutter (In Progress)
+- 🌍 **Tourism System** - Nuxt.js Web App (In Progress)
+
+### 🛠️ **Tech Stack**
+![Laravel](https://img.shields.io/badge/Laravel-12.x-red.svg)
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue.svg)
+![Dart](https://img.shields.io/badge/Dart-3.x-blue.svg)
+![Nuxt](https://img.shields.io/badge/Nuxt-3.x-green.svg)
+![Figma](https://img.shields.io/badge/Figma-Design-orange.svg)
+![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)
+
+### 📊 **GitHub Stats**
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+
+### 💼 **Available for Projects**
+- Custom web applications
+- Mobile app development
+- API development
+- UI/UX design
+- Full-stack solutions
+
+### 📞 **Let's Connect**
+- 💼 [LinkedIn]([https://linkedin.com/in/yourusername](https://linkedin.com/in/mhd-zain-al-abedeen-malas-86003722a/))
+- 📧 Email: zainma9901@gmail.com
