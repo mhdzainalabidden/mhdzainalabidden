@@ -3,9 +3,9 @@
 ## 🚀 Full-Stack Developer & UI/UX Designer
 
 ### 🎯 **What I Do**
-- **Backend Development**: Laravel APIs, Database Design, System Architecture
+- **Backend Development**: Laravel APIs, Database Design,
 - **Mobile Development**: Flutter apps for iOS & Android
-- **Web Development**: Nuxt.js, Vue.js, Modern JavaScript
+- **Web Development**: Flutter web
 - **UI/UX Design**: Figma prototyping, User Experience Design
 
 ### 🏗️ **Current Projects**
@@ -13,7 +13,6 @@
 - 🏨 **Hotel Management System** - Laravel + Flutter (mobile and web) Full Stack
 - 🎯 **Goal Tracker** - Flutter Mobile App
 - 🚗 **Car Rental System** - Flutter (In Progress)
-- 🌍 **Tourism System** - Nuxt.js Web App (In Progress)
 
 ### 🛠️ **Tech Stack**
 ![Laravel](https://img.shields.io/badge/Laravel-12.x-red.svg)
