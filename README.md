@@ -34,5 +34,5 @@
 
 ### 📞 **Let's Connect**
 - 🌍 location(UAE -Dubai)
-- 💼 [LinkedIn] ((https://linkedin.com/in/mhd-zain-al-abedeen-malas-86003722a/)) 
+- 💼 [LinkedIn] ((https://www.linkedin.com/in/mhd-zain-alabideen-554758398/)) 
 - 📧 Email: zainma9901@gmail.com
