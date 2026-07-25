@@ -1,38 +1,55 @@
-# Hi there! 👋 I'm  zain alabideen
+# Zain Alabideen
 
-## 🚀 Full-Stack Developer & UI/UX Designer
+Software Engineer based in Dubai, building **Arabic-first AI products**, backend systems, and cross-platform mobile applications.
 
-### 🎯 **What I Do**
-- **Backend Development**: Laravel APIs, Database Design,
-- **Mobile Development**: Flutter apps for iOS & Android
-- **Web Development**: Flutter web
-- **UI/UX Design**: Figma prototyping, User Experience Design
+My current focus is applied AI engineering: turning LLMs, verified data sources, APIs, automation, and production-oriented software practices into useful products.
 
-### 🏗️ **Current Projects**
-- 🏢 **Property Management System** - Laravel Backend API and Fontendend Flutter(In Progress)
-- 🏨 **Hotel Management System** - Laravel + Flutter (mobile and web) Full Stack
-- 🎯 **Goal Tracker** - Flutter Mobile App
-- 🚗 **Car Rental System** - Flutter (In Progress)
+## Focus Areas
 
-### 🛠️ **Tech Stack**
-![Laravel](https://img.shields.io/badge/Laravel-12.x-red.svg)
-![Flutter](https://img.shields.io/badge/Flutter-3.x-blue.svg)
-![Dart](https://img.shields.io/badge/Dart-3.x-blue.svg)
-![Nuxt](https://img.shields.io/badge/Nuxt-3.x-green.svg)
-![Figma](https://img.shields.io/badge/Figma-Design-orange.svg)
-![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)
+- Arabic-first AI products and LLM integrations
+- Backend APIs, ingestion pipelines, and automation
+- TypeScript, Fastify, PostgreSQL, and Supabase
+- Flutter and cross-platform mobile development
+- Testing, CI workflows, and maintainable system design
 
-### 📊 **GitHub Stats**
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdzainalabidden&show_icons=true&theme=radical)](https://github.com/mhdzainalabidden)
+## Featured Projects
 
-### 💼 **Available for Projects**
-- Custom web applications
-- Mobile app development
-- API development
-- UI/UX design
-- Full-stack solutions
+### [Dev Arab AI News](https://github.com/mhdzainalabidden/devarab-ai-news)
 
-### 📞 **Let's Connect**
-- 🌍 location(UAE -Dubai)
-- 💼 [LinkedIn] ((https://www.linkedin.com/in/mhd-zain-alabideen-554758398/)) 
-- 📧 Email: zainma9901@gmail.com
+Arabic-first AI news intelligence backend that monitors official AI sources, verifies source domains, removes duplicate updates, classifies technical developments, and exposes structured Arabic-English content through JSON APIs.
+
+- **Problem:** Arabic AI coverage is often delayed, copied from secondary sources, or missing the technical context developers need.
+- **Core stack:** TypeScript, Fastify, PostgreSQL/Supabase, LLM integrations, RSS/HTML/GitHub ingestion, Vitest
+- **Status:** Active
+
+### [Goal Tracker](https://github.com/mhdzainalabidden/goal_tracker)
+
+A Flutter goal-tracking application designed around local data, structured navigation, reminders, calendar workflows, and progress visualization.
+
+- **Core stack:** Flutter, Dart, BLoC, SQLite, GoRouter, local notifications, charts
+- **Status:** In Development
+
+### [Car Rental App](https://github.com/mhdzainalabidden/car_project)
+
+A Flutter car-rental client focused on onboarding and authentication flows with a layered architecture and API integration.
+
+- **Core stack:** Flutter, Dart, BLoC, GetIt, HTTP, SharedPreferences
+- **Status:** In Development
+
+## Engineering Stack
+
+**Languages:** TypeScript, Dart, PHP, SQL  
+**Backend:** Fastify, Laravel, REST APIs  
+**Data:** PostgreSQL, Supabase, MySQL, SQLite  
+**Mobile:** Flutter  
+**AI:** LLM APIs, bilingual generation, source verification, ingestion pipelines  
+**Quality:** Vitest, PHPUnit, Flutter testing, GitHub Actions
+
+## Current Direction
+
+I am developing deeper expertise in applied AI engineering while continuing to build backend and Flutter products. My work emphasizes verifiable data, practical automation, clean APIs, and software that can move from prototype to production.
+
+## Connect
+
+- Dubai, United Arab Emirates
+- [LinkedIn](https://www.linkedin.com/in/mhd-zain-alabideen-554758398/)
